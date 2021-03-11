@@ -184,9 +184,10 @@ vertical: body pane on the botton</t>
 
 &lt;h2&gt;2021-協同產品設計實習-stage1-ag1&lt;/h2&gt;
 &lt;p&gt;專題題目:籃球機&lt;/p&gt;
-&lt;p&gt;40823152倉儲&lt;/p&gt;
-&lt;p&gt;40823153倉儲&lt;/p&gt;
-&lt;p&gt;40823154倉儲&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://40823152.github.io/cd2021/content/index.html"&gt;40823152倉儲&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://40823153.github.io/cd2021/content/index.html"&gt;40823153倉儲&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://40823154.github.io/cd2021/content/index.html"&gt;40823154倉儲&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://40823153.github.io/stage1-ag21/content/about.html"&gt;stage1-ag21&lt;/a&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20210311142059.1">&lt;section&gt;
 &lt;h2&gt;製作規劃&lt;/h2&gt;
@@ -208,6 +209,7 @@ vertical: body pane on the botton</t>
 &lt;/section&gt;</t>
 <t tx="leo.20210311151533.1">&lt;section&gt;
 &lt;h2&gt;籃球機第一代&lt;/h2&gt;
+&lt;p&gt;&lt;img alt="" height="568" src="./../images/籃球機初代.jpg" width="700"/&gt;&lt;/p&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20210311151533.2">&lt;section&gt;
 &lt;h2&gt;籃球機第二代&lt;/h2&gt;
