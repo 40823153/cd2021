@@ -23,7 +23,6 @@
 <v t="leo.20210317153450.1"><vh>製作規劃</vh>
 <v t="leo.20210311142059.1"><vh>1-1</vh></v>
 <v t="leo.20210317153535.1"><vh>1-2</vh></v>
-<v t="leo.20210317154305.1"><vh>1-3</vh></v>
 </v>
 <v t="leo.20210311151201.1"><vh>機構設計</vh>
 <v t="leo.20210311150329.1"><vh>2-1</vh></v>
@@ -32,6 +31,9 @@
 <v t="leo.20210311151750.1"><vh>2-4</vh></v>
 <v t="leo.20210311151751.1"><vh>2-5</vh></v>
 <v t="leo.20210317152016.1"><vh>2-6</vh></v>
+</v>
+<v t="leo.20210317172004.1"><vh>coppeliaSim模擬</vh>
+<v t="leo.20210317172055.1"><vh>3-1</vh></v>
 </v>
 </v>
 </v>
@@ -186,7 +188,7 @@ vertical: body pane on the botton</t>
 &lt;/section&gt;</t>
 <t tx="leo.20210311140709.1">&lt;section&gt;
 
-&lt;h2&gt;2021-協同產品設計實習-stage1-ag1&lt;/h2&gt;
+&lt;h2&gt;2021-協同產品設計實習-stage1-ag21&lt;/h2&gt;
 &lt;p&gt;專題題目:籃球機&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://40823152.github.io/cd2021/content/index.html"&gt;40823152倉儲&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://40823153.github.io/cd2021/content/index.html"&gt;40823153倉儲&lt;/a&gt;&lt;/p&gt;
@@ -238,9 +240,12 @@ vertical: body pane on the botton</t>
 
 &lt;p&gt;40823154 ppt製作，inentor 工程圖&lt;/p&gt;
 &lt;/section&gt;</t>
-<t tx="leo.20210317154305.1">&lt;section&gt;
-&lt;h2&gt;工作流程&lt;/h2&gt;
-&lt;p&gt;&lt;img alt="" height="400" src="./../images/3-11 (1).png" width="711"/&gt;&lt;/p&gt;
+<t tx="leo.20210317172004.1">&lt;section&gt;
+@others
+&lt;/section&gt;</t>
+<t tx="leo.20210317172055.1">&lt;section&gt;
+&lt;h2&gt;coppeliaSim模擬&lt;/h2&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/pDRwLqA17p8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 &lt;/section&gt;</t>
 </tnodes>
 </leo_file>
