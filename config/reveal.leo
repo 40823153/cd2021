@@ -30,10 +30,14 @@
 <v t="leo.20210311151533.2"><vh>2-3</vh></v>
 <v t="leo.20210311151750.1"><vh>2-4</vh></v>
 <v t="leo.20210311151751.1"><vh>2-5</vh></v>
-<v t="leo.20210317152016.1"><vh>2-6</vh></v>
 </v>
 <v t="leo.20210317172004.1"><vh>coppeliaSim模擬</vh>
 <v t="leo.20210317172055.1"><vh>3-1</vh></v>
+<v t="leo.20210317172701.1"><vh>3-2</vh></v>
+</v>
+<v t="leo.20210317172522.1"><vh>inventor模擬</vh>
+<v t="leo.20210317172545.1"><vh>4-1</vh></v>
+<v t="leo.20210317172626.1"><vh>4-2</vh></v>
 </v>
 </v>
 </v>
@@ -225,10 +229,6 @@ vertical: body pane on the botton</t>
 &lt;h2&gt;籃球機第四代&lt;/h2&gt;
 &lt;p&gt;&lt;img alt="" height="393" src="./../images/籃球機4.jpg" width="700"/&gt;&lt;/p&gt;
 &lt;/section&gt;</t>
-<t tx="leo.20210317152016.1">&lt;section&gt;
-&lt;h2&gt;inventor模擬&lt;/h2&gt;
-&lt;p&gt;&lt;iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" height="393" src="https://www.youtube.com/embed/2VGMFJf7iac" width="700"&gt;&lt;/iframe&gt;&lt;/p&gt;
-&lt;/section&gt;</t>
 <t tx="leo.20210317153450.1">&lt;section&gt;
 @others
 &lt;/section&gt;</t>
@@ -245,7 +245,18 @@ vertical: body pane on the botton</t>
 &lt;/section&gt;</t>
 <t tx="leo.20210317172055.1">&lt;section&gt;
 &lt;h2&gt;coppeliaSim模擬&lt;/h2&gt;
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/pDRwLqA17p8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20210317172522.1">&lt;section&gt;
+@others
+&lt;/section&gt;</t>
+<t tx="leo.20210317172545.1">&lt;section&gt;
+&lt;h2&gt;inventor模擬&lt;/h2&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20210317172626.1">&lt;section&gt;
+&lt;p&gt;&lt;iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" height="393" src="https://www.youtube.com/embed/2VGMFJf7iac" width="700"&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20210317172701.1">&lt;section&gt;
+&lt;iframe width="700" height="393" src="https://www.youtube.com/embed/pDRwLqA17p8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 &lt;/section&gt;</t>
 </tnodes>
 </leo_file>
