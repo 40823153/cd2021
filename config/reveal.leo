@@ -17,11 +17,14 @@
 <v t="leo.20200818165438.1"><vh>head</vh></v>
 <v t="leo.20200818165413.1"><vh>body</vh>
 <v t="leo.20200818170041.1"><vh>reveal div</vh>
-<v t="leo.20200818170222.1"><vh>slides div</vh>
-<v t="leo.20210311140709.1"><vh>1-1</vh></v>
-<v t="leo.20210311140643.1"><vh>1-2</vh></v>
-<v t="leo.20210311142059.1"><vh>1-3</vh></v>
-<v t="leo.20210311151201.1"><vh>2</vh>
+<v t="leo.20200818170222.1"><vh>標題</vh>
+<v t="leo.20210311140709.1"><vh>籃球機</vh></v>
+<v t="leo.20210311140643.1"><vh>動機</vh></v>
+<v t="leo.20210317153450.1"><vh>製作規劃</vh>
+<v t="leo.20210311142059.1"><vh>1-1</vh></v>
+<v t="leo.20210317153535.1"><vh>1-2</vh></v>
+</v>
+<v t="leo.20210311151201.1"><vh>機構設計</vh>
 <v t="leo.20210311150329.1"><vh>2-1</vh></v>
 <v t="leo.20210311151533.1"><vh>2-2</vh></v>
 <v t="leo.20210311151533.2"><vh>2-3</vh></v>
@@ -206,23 +209,30 @@ vertical: body pane on the botton</t>
 &lt;/section&gt;</t>
 <t tx="leo.20210311151533.1">&lt;section&gt;
 &lt;h2&gt;籃球機第一代&lt;/h2&gt;
-&lt;p&gt;&lt;img alt="" height="225" src="./../images/籃球機初代.jpg" width="400"/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" height="393" src="./../images/籃球機初代.jpg" width="700"/&gt;&lt;/p&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20210311151533.2">&lt;section&gt;
 &lt;h2&gt;籃球機第二代&lt;/h2&gt;
-&lt;p&gt;&lt;img alt="" height="225" src="./../images/籃球機2.jpg" width="400"/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" height="393" src="./../images/籃球機2.jpg" width="700"/&gt;&lt;/p&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20210311151750.1">&lt;section&gt;
 &lt;h2&gt;籃球機第三代&lt;/h2&gt;
-&lt;p&gt;&lt;img alt="" height="225" src="./../images/籃球機3.jpg" width="400"/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" height="393" src="./../images/籃球機3.jpg" width="700"/&gt;&lt;/p&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20210311151751.1">&lt;section&gt;
 &lt;h2&gt;籃球機第四代&lt;/h2&gt;
-&lt;p&gt;&lt;img alt="" height="225" src="./../images/籃球機4.jpg" width="400"/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" height="393" src="./../images/籃球機4.jpg" width="700"/&gt;&lt;/p&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20210317152016.1">&lt;section&gt;
 &lt;h2&gt;inventor模擬&lt;/h2&gt;
-&lt;p&gt;&lt;iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" height="315" src="https://www.youtube.com/embed/2VGMFJf7iac" width="560"&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;&lt;iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" height="393" src="https://www.youtube.com/embed/2VGMFJf7iac" width="700"&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20210317153450.1">&lt;section&gt;
+@others
+&lt;/section&gt;</t>
+<t tx="leo.20210317153535.1">&lt;section&gt;
+&lt;h2&gt;工作分配&lt;/h2&gt;
+
 &lt;/section&gt;</t>
 </tnodes>
 </leo_file>
