@@ -206,19 +206,19 @@ vertical: body pane on the botton</t>
 &lt;/section&gt;</t>
 <t tx="leo.20210311151533.1">&lt;section&gt;
 &lt;h2&gt;籃球機第一代&lt;/h2&gt;
-&lt;p&gt;&lt;img alt="" height="568" src="./../images/籃球機初代.jpg" width="700"/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" height="225" src="./../images/籃球機初代.jpg" width="400"/&gt;&lt;/p&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20210311151533.2">&lt;section&gt;
 &lt;h2&gt;籃球機第二代&lt;/h2&gt;
-&lt;p&gt;&lt;img alt="" height="321" src="./../images/籃球機2.jpg" width="700"/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" height="225" src="./../images/籃球機2.jpg" width="400"/&gt;&lt;/p&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20210311151750.1">&lt;section&gt;
 &lt;h2&gt;籃球機第三代&lt;/h2&gt;
-&lt;p&gt;&lt;img alt="" height="321" src="./../images/籃球機3.jpg" width="700"/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" height="225" src="./../images/籃球機3.jpg" width="400"/&gt;&lt;/p&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20210311151751.1">&lt;section&gt;
 &lt;h2&gt;籃球機第四代&lt;/h2&gt;
-&lt;p&gt;&lt;img alt="" height="321" src="./../images/籃球機4.jpg" width="700"/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" height="225" src="./../images/籃球機4.jpg" width="400"/&gt;&lt;/p&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20210317152016.1">&lt;section&gt;
 &lt;h2&gt;inventor模擬&lt;/h2&gt;
