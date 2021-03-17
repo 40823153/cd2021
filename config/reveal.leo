@@ -216,18 +216,22 @@ vertical: body pane on the botton</t>
 <t tx="leo.20210311151533.1">&lt;section&gt;
 &lt;h2&gt;籃球機第一代&lt;/h2&gt;
 &lt;p&gt;&lt;img alt="" height="393" src="./../images/籃球機初代.jpg" width="700"/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://drive.google.com/drive/folders/1_VhLBBrMjL90N9OTufHESV0Iaxei1O1j?usp=sharing"&gt;version 1&lt;/a&gt;&lt;/p&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20210311151533.2">&lt;section&gt;
 &lt;h2&gt;籃球機第二代&lt;/h2&gt;
 &lt;p&gt;&lt;img alt="" height="393" src="./../images/籃球機2.jpg" width="700"/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://drive.google.com/drive/folders/1aQpgnYPlhykg4OiwivtIGSgfcZ78cIsp?usp=sharing"&gt;version2&lt;/a&gt;&lt;/p&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20210311151750.1">&lt;section&gt;
 &lt;h2&gt;籃球機第三代&lt;/h2&gt;
 &lt;p&gt;&lt;img alt="" height="393" src="./../images/籃球機3.jpg" width="700"/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://drive.google.com/drive/folders/1mRIFlDJfi8JPJOuYiqUS0xwlG5lDGWj_?usp=sharing"&gt;version3&lt;/a&gt;&lt;/p&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20210311151751.1">&lt;section&gt;
 &lt;h2&gt;籃球機第四代&lt;/h2&gt;
 &lt;p&gt;&lt;img alt="" height="393" src="./../images/籃球機4.jpg" width="700"/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://drive.google.com/drive/folders/1GhgbMJbaKh2e0Zb0xjlF-sdGHJVy5C8D?usp=sharing"&gt;version4&lt;/a&gt;&lt;/p&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20210317153450.1">&lt;section&gt;
 @others
