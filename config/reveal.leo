@@ -240,7 +240,7 @@ vertical: body pane on the botton</t>
 &lt;/section&gt;</t>
 <t tx="leo.20210317154305.1">&lt;section&gt;
 &lt;h2&gt;工作流程&lt;/h2&gt;
-&lt;p&gt;&lt;img alt="" height="976" src="./../images/3-11 (1).png" width="741"/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" height="400" src="./../images/3-11 (1).png" width="711"/&gt;&lt;/p&gt;
 &lt;/section&gt;</t>
 </tnodes>
 </leo_file>
