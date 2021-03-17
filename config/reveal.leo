@@ -23,6 +23,7 @@
 <v t="leo.20210317153450.1"><vh>製作規劃</vh>
 <v t="leo.20210311142059.1"><vh>1-1</vh></v>
 <v t="leo.20210317153535.1"><vh>1-2</vh></v>
+<v t="leo.20210317154305.1"><vh>1-3</vh></v>
 </v>
 <v t="leo.20210311151201.1"><vh>機構設計</vh>
 <v t="leo.20210311150329.1"><vh>2-1</vh></v>
@@ -194,7 +195,6 @@ vertical: body pane on the botton</t>
 &lt;/section&gt;</t>
 <t tx="leo.20210311142059.1">&lt;section&gt;
 &lt;h2&gt;製作規劃&lt;/h2&gt;
-
 &lt;p&gt;第二周:繪製完零件圖，並且用CoppeliaSim模擬投球。&lt;/p&gt;
 
 &lt;p&gt;第三周:修改第二周的問題並改善完成籃球機。&lt;/p&gt;
@@ -232,7 +232,15 @@ vertical: body pane on the botton</t>
 &lt;/section&gt;</t>
 <t tx="leo.20210317153535.1">&lt;section&gt;
 &lt;h2&gt;工作分配&lt;/h2&gt;
+&lt;p&gt;40823152 籃球機構思與設計，coppeliaSim 模擬&lt;/p&gt;
 
+&lt;p&gt;40823153 籃球機構設計，inentor 繪圖&lt;/p&gt;
+
+&lt;p&gt;40823154 ppt製作，inentor 工程圖&lt;/p&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20210317154305.1">&lt;section&gt;
+&lt;h2&gt;工作流程&lt;/h2&gt;
+&lt;p&gt;&lt;img alt="" height="976" src="./../images/3-11 (1).png" width="741"/&gt;&lt;/p&gt;
 &lt;/section&gt;</t>
 </tnodes>
 </leo_file>
