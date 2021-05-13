@@ -1,7 +1,10 @@
 <h1>個人簡介</h1>
 <p><span>四設計二甲 40823153 蕭日傑</span></p>
+<p><span>github</span></p>
 <p><a href="https://github.com/40823153/cd2021" title="cd2021"><img caption="false" height="85" src="/images/GitHub2.png" width="400"/></a></p>
+<p>gitter</p>
 <p><a href="https://gitter.im/home" title="gitter"><img caption="false" height="85" src="/images/gitter2.png" width="400"/></a></p>
+<p>youtube</p>
 <p><a href="https://www.youtube.com/channel/UCmu7LL2J3PSsmYqDy1RUNEg?guided_help_flow=5" title="youtube"><img alt="" height="125" src="/images/yt2_1200.jpg" width="400"/></a></p>
 <p></p>
 <p></p>
@@ -324,6 +327,7 @@ with open("stage3_2a.txt") as fh:
     data = fh.readlines()
     A = [a.replace ('4823122','40823122') for a in data]
     B = [b.replace ('\t\t\t\t','') for b in A]
+    C = [c.replace ('_','-') for c in B]
 #print(len(data))
 for i in range(len(data)):
     group = B[i].rstrip("\n").split("\t")

@@ -143,6 +143,7 @@ with open("stage3_2a.txt") as fh:
     data = fh.readlines()
     A = [a.replace ('4823122','40823122') for a in data]
     B = [b.replace ('\t\t\t\t','') for b in A]
+    C = [c.replace ('_','-') for c in B]
 #print(len(data))
 for i in range(len(data)):
     group = B[i].rstrip("\n").split("\t")
