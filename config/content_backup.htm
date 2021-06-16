@@ -485,9 +485,69 @@ end
  
 -- See the user manual or the available code snippets for additional callback functions and details</pre>
 <div class="notranslate" style="all: initial;"></div><h3>3.CoppeliaSim vrep 新增吸盤</h3>
-<p></p>
 <p><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" height="315" src="https://www.youtube.com/embed/l4BDNcQydBQ" title="YouTube video player" width="560"></iframe></p>
 <p>雲端檔案</p>
 <p><a href="https://drive.google.com/drive/folders/1Odpi-ER7QlMRxViavJP9Vi5FZkIKvKDC?usp=sharing" title="MTB_Robot(Two axis)"><img alt="MTB_Robot(Two axis)" height="76" src="/images/123456.png" width="313"/></a></p>
-<div class="notranslate" style="all: initial;"></div><h3>4.</h3>
-<h3>5.</h3>
+<p>控制程式</p>
+<pre class="brush:lua;auto-links:false;toolbar:false" contenteditable="false">function sysCall_init()
+    -- do some initialization here
+     axis2=sim.getObjectHandle('Revolute_joint3')
+     axis8=sim.getObjectHandle('Revolute_joint5')
+     axis0=sim.getObjectHandle('Prismatic_joint1')
+     axis4=sim.getObjectHandle('Revolute_joint3')   
+     suctionPad=sim.getObjectHandle('suctionPad') 
+     rotation3 = 0
+     rotation2 = 0
+     distance3 = 0
+     deg = math.pi/180
+     --sim.sJointTargetVelocity(joint,5.5)
+end
+ 
+function sysCall_actuation()
+ calibration = 0.0042
+ message,auxiliaryData=sim.getSimulatorMessage()
+ if (message==sim.message_keypress) then
+      print(auxiliaryData[1])--key
+      if (auxiliaryData[1]==string.byte(' ')) then
+      end
+      if (auxiliaryData[1]==97) then--a
+      rotation1 = rotation1 + 5*deg
+      sim.setJointPosition(axis1, rotation1)
+      end
+      if (auxiliaryData[1]==100) then --d
+      rotation1 = rotation1 - 5*deg
+      sim.setJointPosition(axis1, rotation1)
+      end
+      if (auxiliaryData[1]==2007) then --up
+      distance3 = distance3 + 0.01 + calibration
+      sim.setJointPosition(axis3, distance3)
+      end
+      if (auxiliaryData[1]==2008) then --down
+      distance3 = distance3 - 0.01 - calibration
+      sim.setJointPosition(axis3, distance3)
+      end
+       if (auxiliaryData[1]==101) then --e activate the suction pad
+sim.setScriptSimulationParameter(sim.getScriptAssociatedWithObject(suctionPad),'active','true')
+      end -- if e
+      if (auxiliaryData[1]==113) then --q deactivate the suction pad
+sim.setScriptSimulationParameter(sim.getScriptAssociatedWithObject(suctionPad),'active','false')
+      end -- if q
+      
+ end   
+
+end
+function sysCall_sensing()
+    -- put your sensing code here
+end
+ 
+function sysCall_cleanup()
+    -- do some clean-up here
+end
+ 
+-- See the user manual or the available code snippets for additional callback functions and details</pre>
+<div class="notranslate" style="all: initial;"></div><h3>4.逆向運動學函式</h3>
+<p><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" height="315" src="https://www.youtube.com/embed/Ehntx79s_Tc" title="YouTube video player" width="560"></iframe></p><h3>5.Python remote API 逆向運動學函式</h3>
+<p><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" height="315" src="https://www.youtube.com/embed/gJcQwdW7yWs" title="YouTube video player" width="560"></iframe></p>
+<h3>require的補充</h3>
+<p>因為發現到沒有做成require的版本,所以做了補充</p>
+<p><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" height="315" src="https://www.youtube.com/embed/SEBd8IcPMxc" title="YouTube video player" width="560"></iframe></p>
